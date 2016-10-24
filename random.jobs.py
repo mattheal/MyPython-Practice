@@ -25,7 +25,7 @@ def position_assigner():
 	elif assigned_position >= 3300:
 		print "You are a you are a lower enlisted draftee"
 	elif assigned_position >= 1500:
-		print "You are a common laborer, due to the American Patriot workers act"
+		print "You are a common laborer, due to the American Patriot Workers Act"
 		print "You are required to work no less than 65 hours a week"
 		print "The tax rate is set at 65%"
 	else:
